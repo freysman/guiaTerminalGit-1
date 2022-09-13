@@ -13,3 +13,7 @@ git log: muestra todos los commits realizados
 	flats:
 	--oneline: muestra los commits de manera resumida.
 	--graph: muestra el grafico del proyecto.
+
+git branch <NombreDeLaRama>: Crea una rama
+	--list: Muestra todas las ramas
+git checkout <NombreDeLARama>: cambiar de rama
