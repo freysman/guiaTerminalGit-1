@@ -17,3 +17,15 @@ git log: muestra todos los commits realizados
 git branch <NombreDeLaRama>: Crea una rama
 	--list: Muestra todas las ramas
 git checkout <NombreDeLARama>: cambiar de rama
+
+[9:01 p. m.] Efrain Jimenez (Invitado)
+    
+
+git push <nombre-remoto> <nombre-de-tu-rama>
+
+
+​[9:03 p. m.] Erick Steeven Guerrero Amaris
+    git pull origin main --allow-unrelated-histories
+​[9:21 p. m.] Erick Steeven Guerrero Amaris
+    ErickGAmaris
+
